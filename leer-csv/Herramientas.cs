@@ -32,6 +32,7 @@ public class Herramientas
     }
     public static void AvgDescendienteIngresosCiudades(List<Persona> lista)
     {
+        Console.WriteLine("ingresos por ciudad");
         //primero agrupo por ciudades 
         var ciudades = lista.GroupBy(p => p.ciudad).Select(g => new{
             g_ciudad = g.Key,
@@ -47,6 +48,7 @@ public class Herramientas
 
     public static void AvgIngresosGenero(List<Persona> lista)
     {
+        Console.WriteLine("ingresos por genero");
         var generos = lista.GroupBy(p => p.genero).Select(g => new{
             g_genero = g.Key,
             g_ingresos = g.Average(p => p.ingresos)
@@ -55,6 +57,40 @@ public class Herramientas
         {
             Console.WriteLine($"{genero.g_genero} : {genero.g_ingresos}");   
             
+        }
+        Console.WriteLine("\n");
+    }
+
+    public static void AvgUtilidadesCiudad(List<Persona> lista)
+    {
+        Console.WriteLine("ciudades descendentes por utilidad/perdida");
+
+        var ciudades = lista.GroupBy(p => p.ciudad).Select(g => new{
+            g_ciudad = g.Key,
+            g_utilidades = g.Average(p => (p.ingresos - p.egresos))
+        }).OrderByDescending(p => p.g_utilidades);
+
+        foreach(var ciudad in ciudades)
+        {
+            Console.WriteLine($"{ciudad.g_ciudad} : {ciudad.g_utilidades}");   
+        }
+        Console.WriteLine("\n");
+    }
+
+    public static void AvgIngresosPorRegion(List<Persona> lista)
+    {
+        Console.WriteLine("ingresos por region");
+        var ciudades = lista.GroupBy(p => p.ciudad).Select(g => new{
+            g_ciudades = g.Key,
+            g_ingresos = g.Average(p => p.ingresos)
+        });
+        var regiones = ciudades.GroupBy(p => p.g_ciudades.ToLower() == "ambato" || p.g_ciudades.ToLower() == "quito" ? "sierra" : "costa").Select(g => new{
+            g_region = g.Key,
+            g_ingresos = g.Average(p => p.g_ingresos)
+        });
+        foreach (var region in regiones)
+        {
+            Console.WriteLine($"{region.g_region} : {region.g_ingresos}");   
         }
         Console.WriteLine("\n");
     }

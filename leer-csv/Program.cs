@@ -6,5 +6,7 @@ public class Program
         List<Persona> lista = Herramientas.LeerCSV("./IngresosEgresos.csv");
         Herramientas.AvgDescendienteIngresosCiudades(lista);
         Herramientas.AvgIngresosGenero(lista);
+        Herramientas.AvgUtilidadesCiudad(lista);
+        Herramientas.AvgIngresosPorRegion(lista);
     }
 }
