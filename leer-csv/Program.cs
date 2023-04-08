@@ -8,5 +8,6 @@ public class Program
         Herramientas.AvgIngresosGenero(lista);
         Herramientas.AvgUtilidadesCiudad(lista);
         Herramientas.AvgIngresosPorRegion(lista);
+        Herramientas.TotalIngresosEgresos(lista);
     }
 }

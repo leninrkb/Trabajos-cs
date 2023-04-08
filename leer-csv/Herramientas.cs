@@ -82,16 +82,27 @@ public class Herramientas
         Console.WriteLine("ingresos por region");
         var ciudades = lista.GroupBy(p => p.ciudad).Select(g => new{
             g_ciudades = g.Key,
-            g_ingresos = g.Average(p => p.ingresos)
+            g_ingresos = g.Sum(p => p.ingresos)
         });
         var regiones = ciudades.GroupBy(p => p.g_ciudades.ToLower() == "ambato" || p.g_ciudades.ToLower() == "quito" ? "sierra" : "costa").Select(g => new{
             g_region = g.Key,
-            g_ingresos = g.Average(p => p.g_ingresos)
+            g_ingresos = g.Sum(p => p.g_ingresos)
         });
         foreach (var region in regiones)
         {
             Console.WriteLine($"{region.g_region} : {region.g_ingresos}");   
         }
+        Console.WriteLine("\n");
+    }
+
+
+    public static void TotalIngresosEgresos(List<Persona> lista)
+    {
+        Console.WriteLine("suma de inresos - egresos");
+        var total_ingresos = lista.Sum(p => p.ingresos);
+        var total_egresos = lista.Sum(p => p.egresos);
+        Console.WriteLine($"ingresos:{total_ingresos} / egresos:{total_egresos}");   
+            
         Console.WriteLine("\n");
     }
 }
