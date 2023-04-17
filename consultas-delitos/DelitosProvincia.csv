@@ -1,0 +1,1001 @@
+﻿provincia,delito,fechaDelito,judicializado,victima
+Guayas,secuestro,11/8/2021,true,estado
+Tungurahua,Peculado,5/20/2020,true,empresa privada
+Azuay,secuestro,10/22/2018,false,ciudadania
+Azuay,robo de vehículos,12/15/2020,false,estado
+Azuay,Falsificación de firmas,5/4/2019,false,empresa privada
+Azuay,robo de vehículos,4/19/2020,false,ciudadania
+Esmeraldas,secuestro,8/6/2019,false,ciudadania
+Pichincha,lesiones,5/29/2022,true,estado
+Manabí,Extorsión,1/12/2023,false,empresa privada
+Guayas,lesiones,4/22/2018,true,ciudadania
+Cotopaxi,. Ataques informáticos,12/30/2019,false,ciudadania
+Guayas,. Ataques informáticos,4/5/2019,true,ciudadania
+Esmeraldas,Falsificación de firmas,4/6/2018,false,ciudadania
+Azuay,Testaferrismo,2/18/2023,true,ciudadania
+Guayas,Testaferrismo,6/20/2021,true,estado
+Napo,lesiones,10/11/2019,true,empresa privada
+Manabí,robo de vehículos,9/5/2019,false,ciudadania
+Cotopaxi,Peculado,5/3/2022,true,estado
+Azuay,lesiones,5/12/2020,true,ciudadania
+Pichincha,Testaferrismo,3/11/2020,false,empresa privada
+Pichincha,Peculado,4/28/2021,false,estado
+Guayas,Falsificación de firmas,7/1/2020,true,empresa privada
+Tungurahua,Falsificación de firmas,6/5/2021,false,empresa privada
+Cotopaxi,secuestro,1/8/2018,false,ciudadania
+Cotopaxi,. Ataques informáticos,2/12/2022,true,empresa privada
+Azuay,secuestro,2/26/2021,false,empresa privada
+Azuay,Testaferrismo,2/23/2020,true,estado
+Guayas,Cohecho,7/21/2020,false,empresa privada
+Cotopaxi,lesiones,2/20/2018,true,ciudadania
+Pichincha,Falsificación de firmas,11/30/2019,true,empresa privada
+Azuay,. Ataques informáticos,6/9/2018,false,empresa privada
+Cotopaxi,secuestro,12/25/2019,true,empresa privada
+Azuay,. Ataques informáticos,1/15/2018,true,ciudadania
+Esmeraldas,robo de vehículos,1/2/2018,true,empresa privada
+Pichincha,Extorsión,3/22/2023,false,empresa privada
+Azuay,Cohecho,4/5/2018,true,estado
+Guayas,secuestro,2/19/2019,true,empresa privada
+Manabí,Cohecho,12/2/2020,true,empresa privada
+Pichincha,lesiones,5/12/2020,true,empresa privada
+Pichincha,Peculado,9/11/2020,true,empresa privada
+Azuay,Falsificación de firmas,7/2/2021,true,ciudadania
+Esmeraldas,Falsificación de firmas,4/19/2018,false,estado
+Guayas,lesiones,12/25/2018,true,empresa privada
+Guayas,secuestro,11/20/2021,false,ciudadania
+Napo,Cohecho,10/16/2022,true,empresa privada
+Napo,Falsificación de firmas,10/23/2020,true,estado
+Esmeraldas,Peculado,2/10/2018,true,ciudadania
+Guayas,Cohecho,8/14/2019,true,empresa privada
+Manabí,Peculado,10/17/2019,true,empresa privada
+Tungurahua,Testaferrismo,11/9/2019,true,empresa privada
+Azuay,robo de vehículos,8/7/2020,false,ciudadania
+Cotopaxi,Testaferrismo,11/8/2019,false,estado
+Pichincha,robo de vehículos,1/25/2020,false,empresa privada
+Manabí,Falsificación de firmas,7/27/2022,true,empresa privada
+Azuay,Cohecho,12/18/2021,false,empresa privada
+Pichincha,Peculado,9/28/2022,true,empresa privada
+Cotopaxi,Testaferrismo,6/20/2019,false,ciudadania
+Napo,Peculado,1/28/2021,true,empresa privada
+Manabí,Falsificación de firmas,6/1/2018,false,estado
+Tungurahua,robo de vehículos,6/6/2018,false,empresa privada
+Esmeraldas,Cohecho,12/4/2019,false,empresa privada
+Cotopaxi,Testaferrismo,7/31/2021,false,estado
+Pichincha,secuestro,9/14/2022,true,ciudadania
+Esmeraldas,Extorsión,2/5/2020,true,estado
+Pichincha,Testaferrismo,12/5/2019,false,ciudadania
+Manabí,robo de vehículos,1/14/2022,false,empresa privada
+Pichincha,. Ataques informáticos,12/2/2021,true,empresa privada
+Esmeraldas,lesiones,9/16/2022,false,estado
+Napo,Extorsión,8/12/2021,true,ciudadania
+Manabí,secuestro,12/11/2018,false,ciudadania
+Napo,Cohecho,3/29/2022,false,empresa privada
+Azuay,robo de vehículos,6/29/2018,false,ciudadania
+Guayas,Testaferrismo,6/19/2019,true,ciudadania
+Tungurahua,robo de vehículos,5/8/2020,true,empresa privada
+Azuay,secuestro,6/21/2021,false,empresa privada
+Manabí,Cohecho,7/6/2020,false,estado
+Pichincha,secuestro,3/28/2021,false,ciudadania
+Guayas,Peculado,11/1/2022,false,empresa privada
+Tungurahua,Extorsión,3/28/2018,true,empresa privada
+Guayas,Peculado,12/22/2020,true,estado
+Cotopaxi,Cohecho,10/26/2021,false,ciudadania
+Manabí,Cohecho,2/25/2023,true,ciudadania
+Cotopaxi,secuestro,1/17/2023,true,ciudadania
+Guayas,secuestro,9/10/2021,false,empresa privada
+Tungurahua,secuestro,9/28/2020,true,empresa privada
+Tungurahua,lesiones,10/28/2020,false,empresa privada
+Guayas,robo de vehículos,5/7/2021,true,ciudadania
+Guayas,robo de vehículos,12/12/2018,true,ciudadania
+Manabí,lesiones,1/27/2023,true,empresa privada
+Manabí,secuestro,5/23/2021,false,ciudadania
+Pichincha,lesiones,4/18/2019,true,ciudadania
+Esmeraldas,Cohecho,2/12/2020,true,empresa privada
+Napo,lesiones,1/16/2019,true,estado
+Pichincha,Cohecho,4/8/2021,true,estado
+Manabí,robo de vehículos,2/14/2020,true,estado
+Napo,Testaferrismo,4/27/2021,false,ciudadania
+Manabí,Cohecho,3/24/2022,true,estado
+Napo,secuestro,12/24/2018,false,estado
+Manabí,Cohecho,4/7/2022,true,empresa privada
+Pichincha,lesiones,3/17/2021,true,estado
+Azuay,Peculado,6/4/2018,true,estado
+Pichincha,Extorsión,6/12/2021,true,empresa privada
+Manabí,Peculado,11/21/2019,false,estado
+Azuay,Falsificación de firmas,3/27/2023,false,empresa privada
+Pichincha,Testaferrismo,11/6/2021,true,empresa privada
+Pichincha,. Ataques informáticos,12/18/2020,true,ciudadania
+Azuay,Extorsión,10/3/2018,true,ciudadania
+Tungurahua,Peculado,2/1/2020,true,empresa privada
+Napo,. Ataques informáticos,2/1/2022,true,empresa privada
+Esmeraldas,Testaferrismo,2/29/2020,false,empresa privada
+Azuay,. Ataques informáticos,2/29/2020,false,empresa privada
+Esmeraldas,secuestro,2/15/2021,true,ciudadania
+Pichincha,Falsificación de firmas,3/24/2018,false,ciudadania
+Esmeraldas,robo de vehículos,7/3/2022,true,estado
+Napo,lesiones,12/27/2018,true,empresa privada
+Esmeraldas,Extorsión,12/4/2019,true,empresa privada
+Manabí,. Ataques informáticos,6/9/2019,false,estado
+Esmeraldas,Extorsión,9/22/2019,true,empresa privada
+Manabí,secuestro,5/7/2020,true,ciudadania
+Guayas,Falsificación de firmas,6/26/2021,false,estado
+Guayas,. Ataques informáticos,11/9/2022,true,ciudadania
+Tungurahua,. Ataques informáticos,3/7/2021,true,estado
+Esmeraldas,Peculado,10/31/2022,true,ciudadania
+Guayas,secuestro,10/18/2020,false,ciudadania
+Esmeraldas,. Ataques informáticos,8/4/2020,true,estado
+Tungurahua,secuestro,10/13/2021,true,empresa privada
+Cotopaxi,secuestro,7/9/2019,true,empresa privada
+Manabí,. Ataques informáticos,11/16/2018,false,empresa privada
+Napo,robo de vehículos,2/6/2019,true,estado
+Esmeraldas,secuestro,4/22/2020,false,ciudadania
+Tungurahua,Extorsión,1/8/2020,true,estado
+Cotopaxi,Testaferrismo,2/11/2020,true,estado
+Tungurahua,Extorsión,4/13/2018,true,empresa privada
+Azuay,Peculado,1/10/2023,false,ciudadania
+Cotopaxi,Testaferrismo,3/24/2019,true,ciudadania
+Tungurahua,Cohecho,7/20/2019,true,ciudadania
+Napo,Peculado,3/16/2022,false,ciudadania
+Guayas,secuestro,8/7/2019,true,estado
+Tungurahua,Cohecho,9/7/2021,false,empresa privada
+Guayas,secuestro,10/5/2020,true,estado
+Manabí,Cohecho,7/10/2020,true,empresa privada
+Guayas,Extorsión,1/5/2021,false,estado
+Pichincha,secuestro,1/17/2021,true,estado
+Manabí,Testaferrismo,10/29/2020,true,ciudadania
+Azuay,Extorsión,2/11/2020,true,estado
+Guayas,lesiones,10/27/2020,true,ciudadania
+Cotopaxi,Extorsión,5/20/2018,true,estado
+Cotopaxi,Testaferrismo,7/3/2022,true,ciudadania
+Esmeraldas,secuestro,7/8/2020,true,ciudadania
+Esmeraldas,Peculado,6/13/2019,false,empresa privada
+Pichincha,Testaferrismo,1/19/2021,true,estado
+Manabí,robo de vehículos,11/19/2021,true,estado
+Tungurahua,Cohecho,6/1/2019,true,estado
+Manabí,. Ataques informáticos,7/12/2018,true,estado
+Azuay,Peculado,1/24/2019,true,ciudadania
+Cotopaxi,Falsificación de firmas,12/13/2019,true,ciudadania
+Guayas,robo de vehículos,12/7/2021,true,empresa privada
+Azuay,secuestro,3/14/2020,false,ciudadania
+Napo,Cohecho,3/13/2020,false,empresa privada
+Manabí,Cohecho,9/8/2021,true,estado
+Guayas,Extorsión,10/1/2021,false,ciudadania
+Tungurahua,Extorsión,5/26/2019,false,ciudadania
+Cotopaxi,Testaferrismo,12/27/2019,true,empresa privada
+Cotopaxi,Falsificación de firmas,5/2/2018,false,ciudadania
+Azuay,secuestro,7/23/2020,true,empresa privada
+Pichincha,lesiones,9/6/2020,true,empresa privada
+Cotopaxi,robo de vehículos,4/10/2018,false,empresa privada
+Guayas,Falsificación de firmas,5/11/2021,false,ciudadania
+Pichincha,Peculado,1/2/2018,true,empresa privada
+Pichincha,Cohecho,12/3/2021,false,empresa privada
+Pichincha,Peculado,10/3/2018,false,ciudadania
+Esmeraldas,Falsificación de firmas,11/13/2020,true,ciudadania
+Cotopaxi,secuestro,6/27/2022,true,empresa privada
+Cotopaxi,. Ataques informáticos,3/28/2018,true,ciudadania
+Napo,robo de vehículos,7/26/2019,true,ciudadania
+Guayas,Testaferrismo,8/5/2020,false,estado
+Manabí,. Ataques informáticos,3/10/2023,true,estado
+Cotopaxi,Peculado,9/23/2022,false,estado
+Napo,secuestro,1/8/2022,true,empresa privada
+Cotopaxi,Peculado,7/31/2021,true,estado
+Guayas,Testaferrismo,5/10/2022,false,ciudadania
+Manabí,. Ataques informáticos,10/14/2020,true,estado
+Napo,secuestro,9/23/2018,true,ciudadania
+Esmeraldas,secuestro,10/3/2020,true,empresa privada
+Pichincha,lesiones,12/4/2020,true,empresa privada
+Guayas,lesiones,2/11/2021,false,empresa privada
+Napo,lesiones,12/20/2022,true,estado
+Cotopaxi,Testaferrismo,10/20/2021,true,ciudadania
+Esmeraldas,robo de vehículos,9/26/2019,true,ciudadania
+Tungurahua,robo de vehículos,3/21/2022,true,ciudadania
+Azuay,secuestro,6/12/2022,false,estado
+Manabí,Falsificación de firmas,10/5/2019,false,empresa privada
+Esmeraldas,Testaferrismo,12/13/2018,false,ciudadania
+Guayas,Cohecho,7/18/2022,true,empresa privada
+Manabí,Extorsión,12/24/2021,true,estado
+Tungurahua,robo de vehículos,7/31/2019,true,estado
+Pichincha,robo de vehículos,12/7/2020,false,estado
+Cotopaxi,. Ataques informáticos,1/29/2021,true,empresa privada
+Cotopaxi,Peculado,6/1/2018,false,ciudadania
+Esmeraldas,Cohecho,1/16/2020,false,empresa privada
+Manabí,Testaferrismo,5/3/2020,true,empresa privada
+Tungurahua,Cohecho,6/16/2018,true,ciudadania
+Pichincha,Falsificación de firmas,4/15/2019,true,ciudadania
+Pichincha,Cohecho,12/26/2022,false,empresa privada
+Pichincha,Cohecho,2/5/2023,true,estado
+Cotopaxi,Falsificación de firmas,7/28/2022,true,ciudadania
+Tungurahua,Peculado,1/3/2022,false,empresa privada
+Manabí,Testaferrismo,6/21/2022,false,empresa privada
+Esmeraldas,Cohecho,6/16/2018,false,empresa privada
+Napo,Peculado,1/31/2023,true,estado
+Azuay,Cohecho,1/30/2023,false,empresa privada
+Azuay,secuestro,4/26/2021,true,ciudadania
+Napo,Peculado,3/23/2018,true,ciudadania
+Cotopaxi,lesiones,1/11/2018,false,ciudadania
+Cotopaxi,lesiones,5/31/2021,true,ciudadania
+Napo,Cohecho,8/15/2020,true,empresa privada
+Cotopaxi,Cohecho,9/19/2021,false,ciudadania
+Napo,Testaferrismo,2/9/2020,false,ciudadania
+Tungurahua,Testaferrismo,6/13/2022,false,empresa privada
+Tungurahua,secuestro,7/19/2020,true,empresa privada
+Cotopaxi,Peculado,5/7/2020,true,ciudadania
+Esmeraldas,lesiones,11/12/2022,true,estado
+Manabí,lesiones,12/11/2021,false,estado
+Esmeraldas,lesiones,12/31/2018,false,estado
+Cotopaxi,Extorsión,3/25/2023,true,ciudadania
+Esmeraldas,robo de vehículos,10/21/2019,false,ciudadania
+Pichincha,Falsificación de firmas,2/19/2019,true,estado
+Napo,Peculado,12/15/2021,true,estado
+Esmeraldas,. Ataques informáticos,4/5/2019,false,estado
+Azuay,robo de vehículos,12/29/2021,false,empresa privada
+Pichincha,Cohecho,3/24/2019,true,empresa privada
+Napo,robo de vehículos,4/3/2018,true,ciudadania
+Azuay,lesiones,4/16/2022,false,empresa privada
+Manabí,Testaferrismo,10/30/2018,false,estado
+Napo,Testaferrismo,6/26/2018,false,ciudadania
+Manabí,. Ataques informáticos,5/21/2022,true,estado
+Pichincha,Falsificación de firmas,7/26/2019,false,empresa privada
+Azuay,Cohecho,3/12/2021,false,ciudadania
+Napo,Cohecho,11/2/2019,false,empresa privada
+Esmeraldas,Peculado,10/26/2018,false,empresa privada
+Cotopaxi,Peculado,9/17/2020,true,ciudadania
+Guayas,secuestro,7/15/2019,true,ciudadania
+Pichincha,secuestro,9/9/2018,true,empresa privada
+Esmeraldas,Falsificación de firmas,8/10/2020,false,ciudadania
+Esmeraldas,Testaferrismo,2/27/2018,true,estado
+Azuay,Extorsión,11/15/2018,true,ciudadania
+Azuay,Extorsión,2/18/2019,true,estado
+Esmeraldas,robo de vehículos,5/1/2022,false,estado
+Manabí,Falsificación de firmas,1/13/2018,true,empresa privada
+Guayas,Falsificación de firmas,9/6/2022,true,estado
+Guayas,Cohecho,9/6/2022,false,empresa privada
+Tungurahua,Extorsión,9/20/2021,false,ciudadania
+Azuay,Falsificación de firmas,8/31/2018,true,estado
+Esmeraldas,robo de vehículos,11/26/2020,false,ciudadania
+Napo,Falsificación de firmas,5/23/2019,false,estado
+Napo,Extorsión,1/30/2023,true,empresa privada
+Napo,. Ataques informáticos,1/23/2019,true,empresa privada
+Napo,Extorsión,1/7/2020,false,ciudadania
+Manabí,. Ataques informáticos,3/7/2020,true,estado
+Napo,Testaferrismo,1/20/2020,false,ciudadania
+Esmeraldas,secuestro,3/5/2022,false,ciudadania
+Pichincha,Falsificación de firmas,6/21/2021,true,empresa privada
+Pichincha,Extorsión,9/13/2020,false,empresa privada
+Manabí,Cohecho,6/8/2019,true,empresa privada
+Napo,. Ataques informáticos,8/5/2022,true,ciudadania
+Azuay,secuestro,6/18/2019,true,estado
+Azuay,robo de vehículos,3/13/2023,false,estado
+Esmeraldas,lesiones,9/13/2021,true,estado
+Esmeraldas,Testaferrismo,7/17/2021,false,empresa privada
+Pichincha,Cohecho,3/28/2023,true,ciudadania
+Esmeraldas,secuestro,6/19/2022,false,estado
+Tungurahua,lesiones,9/5/2021,true,estado
+Napo,Peculado,2/22/2021,true,ciudadania
+Tungurahua,. Ataques informáticos,1/8/2023,true,ciudadania
+Napo,. Ataques informáticos,4/21/2019,true,empresa privada
+Pichincha,Extorsión,9/25/2022,true,ciudadania
+Tungurahua,lesiones,9/20/2021,false,estado
+Azuay,robo de vehículos,9/23/2020,true,estado
+Cotopaxi,Testaferrismo,8/2/2019,false,estado
+Napo,Extorsión,3/2/2018,true,empresa privada
+Azuay,Extorsión,11/6/2021,false,empresa privada
+Manabí,Extorsión,8/25/2022,true,empresa privada
+Pichincha,Cohecho,1/10/2020,false,empresa privada
+Guayas,Extorsión,12/18/2022,false,empresa privada
+Cotopaxi,Cohecho,12/2/2020,true,ciudadania
+Tungurahua,robo de vehículos,10/10/2019,true,estado
+Manabí,Extorsión,9/15/2020,true,ciudadania
+Guayas,Falsificación de firmas,2/28/2020,false,estado
+Esmeraldas,robo de vehículos,9/24/2019,false,ciudadania
+Napo,robo de vehículos,9/30/2018,false,empresa privada
+Guayas,Cohecho,10/7/2019,false,empresa privada
+Pichincha,robo de vehículos,1/13/2022,false,ciudadania
+Cotopaxi,Peculado,9/26/2021,false,empresa privada
+Tungurahua,secuestro,4/6/2022,false,estado
+Azuay,. Ataques informáticos,6/11/2019,false,estado
+Cotopaxi,Falsificación de firmas,9/10/2021,true,ciudadania
+Tungurahua,secuestro,11/26/2022,true,estado
+Azuay,lesiones,2/6/2022,true,estado
+Cotopaxi,secuestro,8/9/2020,false,empresa privada
+Guayas,Falsificación de firmas,4/11/2021,false,empresa privada
+Esmeraldas,secuestro,12/11/2021,false,empresa privada
+Tungurahua,lesiones,3/2/2023,false,ciudadania
+Tungurahua,Testaferrismo,4/28/2021,false,ciudadania
+Pichincha,Cohecho,3/4/2022,false,ciudadania
+Tungurahua,Peculado,4/23/2018,true,ciudadania
+Manabí,secuestro,12/15/2022,false,empresa privada
+Guayas,Extorsión,10/2/2022,false,ciudadania
+Cotopaxi,. Ataques informáticos,8/25/2020,false,ciudadania
+Pichincha,lesiones,1/8/2019,true,ciudadania
+Esmeraldas,robo de vehículos,8/30/2022,true,empresa privada
+Guayas,Falsificación de firmas,12/26/2022,false,ciudadania
+Cotopaxi,Extorsión,11/12/2018,true,empresa privada
+Guayas,Cohecho,3/12/2020,true,empresa privada
+Esmeraldas,Peculado,10/25/2021,false,empresa privada
+Napo,Cohecho,3/7/2023,true,estado
+Tungurahua,lesiones,4/11/2023,false,estado
+Esmeraldas,Falsificación de firmas,6/22/2021,true,ciudadania
+Manabí,secuestro,6/8/2022,false,estado
+Napo,secuestro,9/2/2022,false,empresa privada
+Pichincha,. Ataques informáticos,8/31/2019,true,estado
+Azuay,Cohecho,10/19/2018,true,empresa privada
+Cotopaxi,Cohecho,9/5/2020,false,ciudadania
+Tungurahua,Falsificación de firmas,2/14/2018,true,empresa privada
+Manabí,secuestro,9/5/2020,true,estado
+Pichincha,Falsificación de firmas,12/21/2018,true,empresa privada
+Tungurahua,lesiones,8/21/2019,true,estado
+Guayas,Peculado,11/4/2020,true,ciudadania
+Guayas,secuestro,9/17/2021,false,ciudadania
+Azuay,Falsificación de firmas,6/3/2018,false,empresa privada
+Azuay,Cohecho,7/12/2018,true,empresa privada
+Guayas,. Ataques informáticos,5/8/2020,false,empresa privada
+Tungurahua,secuestro,12/31/2021,true,empresa privada
+Guayas,secuestro,4/14/2019,true,estado
+Esmeraldas,Falsificación de firmas,12/30/2022,true,empresa privada
+Manabí,Falsificación de firmas,2/3/2020,false,estado
+Manabí,Cohecho,2/18/2023,false,estado
+Azuay,Falsificación de firmas,1/2/2023,true,ciudadania
+Cotopaxi,Testaferrismo,10/11/2018,true,ciudadania
+Napo,secuestro,4/21/2018,false,ciudadania
+Tungurahua,robo de vehículos,1/7/2019,true,empresa privada
+Esmeraldas,robo de vehículos,9/8/2022,false,empresa privada
+Napo,lesiones,7/18/2021,true,ciudadania
+Azuay,lesiones,1/4/2022,false,ciudadania
+Pichincha,Falsificación de firmas,9/9/2022,false,estado
+Pichincha,Falsificación de firmas,4/1/2022,false,ciudadania
+Cotopaxi,Cohecho,9/22/2018,true,ciudadania
+Guayas,Extorsión,4/12/2020,false,ciudadania
+Manabí,. Ataques informáticos,3/20/2020,false,ciudadania
+Napo,Falsificación de firmas,9/9/2019,true,empresa privada
+Guayas,. Ataques informáticos,12/25/2018,false,estado
+Azuay,Falsificación de firmas,5/8/2022,true,estado
+Manabí,lesiones,11/16/2019,true,estado
+Pichincha,Extorsión,12/15/2022,false,estado
+Pichincha,secuestro,1/4/2019,false,estado
+Tungurahua,Cohecho,10/9/2021,false,empresa privada
+Napo,secuestro,7/31/2020,true,estado
+Esmeraldas,Peculado,12/7/2019,true,estado
+Manabí,Extorsión,10/22/2022,false,ciudadania
+Azuay,Cohecho,6/1/2022,true,empresa privada
+Napo,Extorsión,4/11/2019,true,empresa privada
+Pichincha,. Ataques informáticos,4/30/2021,false,empresa privada
+Pichincha,lesiones,7/31/2022,true,empresa privada
+Napo,Testaferrismo,4/12/2023,true,estado
+Manabí,Peculado,6/29/2022,true,estado
+Pichincha,secuestro,12/24/2020,true,empresa privada
+Manabí,Cohecho,5/14/2020,false,estado
+Manabí,Cohecho,3/17/2018,true,ciudadania
+Azuay,robo de vehículos,12/27/2021,true,estado
+Cotopaxi,robo de vehículos,4/16/2022,true,estado
+Napo,Extorsión,6/5/2022,true,empresa privada
+Napo,Peculado,11/25/2019,true,estado
+Cotopaxi,secuestro,8/5/2022,true,ciudadania
+Esmeraldas,secuestro,8/30/2022,true,ciudadania
+Azuay,Cohecho,7/17/2021,true,estado
+Napo,lesiones,7/15/2020,false,empresa privada
+Cotopaxi,Extorsión,7/4/2021,true,estado
+Guayas,Falsificación de firmas,1/14/2021,true,estado
+Guayas,Testaferrismo,10/27/2020,true,empresa privada
+Esmeraldas,lesiones,1/26/2022,false,ciudadania
+Azuay,Cohecho,4/11/2019,false,ciudadania
+Azuay,robo de vehículos,3/4/2022,true,ciudadania
+Cotopaxi,. Ataques informáticos,11/15/2021,true,ciudadania
+Esmeraldas,Extorsión,3/3/2023,true,empresa privada
+Azuay,Falsificación de firmas,8/3/2020,true,ciudadania
+Tungurahua,secuestro,4/18/2021,false,estado
+Manabí,Peculado,6/6/2018,true,ciudadania
+Tungurahua,Falsificación de firmas,1/7/2020,true,empresa privada
+Esmeraldas,robo de vehículos,12/15/2020,true,estado
+Cotopaxi,. Ataques informáticos,3/10/2021,true,empresa privada
+Napo,Cohecho,11/1/2022,true,estado
+Azuay,secuestro,3/20/2018,false,ciudadania
+Tungurahua,Cohecho,10/29/2021,true,empresa privada
+Manabí,. Ataques informáticos,7/21/2018,false,estado
+Guayas,lesiones,12/11/2019,true,empresa privada
+Azuay,lesiones,12/23/2018,false,estado
+Cotopaxi,lesiones,4/22/2021,true,estado
+Cotopaxi,Peculado,9/7/2019,true,empresa privada
+Cotopaxi,secuestro,2/5/2022,false,estado
+Guayas,secuestro,3/21/2023,true,empresa privada
+Manabí,lesiones,4/24/2019,true,estado
+Manabí,lesiones,3/27/2019,true,estado
+Pichincha,Testaferrismo,7/3/2022,false,estado
+Manabí,Extorsión,1/14/2022,false,empresa privada
+Napo,Testaferrismo,4/11/2022,true,empresa privada
+Cotopaxi,lesiones,8/8/2021,false,estado
+Pichincha,Testaferrismo,1/11/2018,false,ciudadania
+Manabí,. Ataques informáticos,5/8/2020,false,ciudadania
+Azuay,Peculado,1/21/2018,false,estado
+Napo,Testaferrismo,5/4/2019,true,ciudadania
+Esmeraldas,Cohecho,10/22/2020,true,empresa privada
+Pichincha,Falsificación de firmas,1/29/2019,false,empresa privada
+Esmeraldas,lesiones,3/7/2019,true,ciudadania
+Guayas,secuestro,1/12/2018,false,estado
+Pichincha,Extorsión,6/10/2021,true,ciudadania
+Napo,Peculado,9/17/2019,true,ciudadania
+Cotopaxi,Testaferrismo,5/9/2021,true,ciudadania
+Manabí,secuestro,10/2/2022,true,empresa privada
+Cotopaxi,secuestro,12/31/2021,true,empresa privada
+Azuay,robo de vehículos,11/18/2022,true,estado
+Esmeraldas,Falsificación de firmas,1/29/2020,true,ciudadania
+Guayas,Cohecho,8/14/2021,true,estado
+Esmeraldas,lesiones,1/21/2020,true,empresa privada
+Manabí,Extorsión,8/29/2019,false,estado
+Esmeraldas,secuestro,11/30/2018,true,estado
+Napo,Cohecho,1/24/2019,false,ciudadania
+Napo,Peculado,10/8/2021,false,estado
+Pichincha,robo de vehículos,10/23/2022,false,estado
+Esmeraldas,robo de vehículos,12/6/2022,true,empresa privada
+Manabí,secuestro,5/11/2019,true,estado
+Pichincha,Peculado,7/31/2018,false,ciudadania
+Cotopaxi,. Ataques informáticos,3/18/2019,false,estado
+Esmeraldas,Extorsión,3/2/2022,true,ciudadania
+Esmeraldas,robo de vehículos,2/21/2019,false,estado
+Guayas,Cohecho,6/14/2021,false,ciudadania
+Tungurahua,Extorsión,9/17/2020,true,ciudadania
+Tungurahua,Falsificación de firmas,6/10/2018,false,empresa privada
+Cotopaxi,Extorsión,10/4/2019,true,empresa privada
+Napo,secuestro,10/10/2020,true,ciudadania
+Esmeraldas,Cohecho,6/19/2021,false,estado
+Tungurahua,robo de vehículos,6/1/2021,true,empresa privada
+Manabí,Testaferrismo,1/29/2021,false,estado
+Esmeraldas,Extorsión,10/28/2019,false,ciudadania
+Pichincha,Testaferrismo,2/15/2018,true,estado
+Manabí,lesiones,3/20/2019,true,estado
+Azuay,Testaferrismo,4/4/2019,true,estado
+Pichincha,Falsificación de firmas,5/8/2022,true,ciudadania
+Napo,Peculado,9/28/2022,false,ciudadania
+Pichincha,Cohecho,3/12/2020,true,estado
+Pichincha,. Ataques informáticos,10/7/2021,false,ciudadania
+Napo,Peculado,4/14/2019,true,estado
+Tungurahua,Peculado,5/20/2021,false,empresa privada
+Guayas,lesiones,5/24/2020,true,estado
+Manabí,Peculado,1/16/2020,true,ciudadania
+Tungurahua,secuestro,10/8/2020,true,empresa privada
+Guayas,Peculado,3/3/2020,false,ciudadania
+Esmeraldas,. Ataques informáticos,8/8/2021,false,estado
+Tungurahua,robo de vehículos,7/16/2019,false,estado
+Manabí,Testaferrismo,8/4/2022,false,estado
+Esmeraldas,Extorsión,9/25/2018,true,estado
+Guayas,Testaferrismo,10/15/2018,false,estado
+Tungurahua,lesiones,8/23/2021,false,ciudadania
+Azuay,Falsificación de firmas,11/11/2022,true,estado
+Azuay,Cohecho,9/10/2018,true,empresa privada
+Cotopaxi,Cohecho,3/4/2018,true,ciudadania
+Azuay,Peculado,12/2/2019,false,estado
+Manabí,secuestro,2/27/2019,false,estado
+Cotopaxi,. Ataques informáticos,5/26/2018,false,empresa privada
+Azuay,Cohecho,9/9/2020,true,empresa privada
+Pichincha,Testaferrismo,2/25/2020,false,empresa privada
+Azuay,secuestro,9/16/2022,false,ciudadania
+Manabí,Testaferrismo,7/7/2022,true,empresa privada
+Pichincha,secuestro,5/21/2021,false,ciudadania
+Cotopaxi,Cohecho,10/28/2018,true,empresa privada
+Tungurahua,Peculado,11/15/2019,false,empresa privada
+Manabí,Peculado,5/21/2019,false,ciudadania
+Manabí,Cohecho,4/30/2022,false,ciudadania
+Pichincha,lesiones,8/16/2020,true,empresa privada
+Pichincha,lesiones,12/27/2018,true,estado
+Tungurahua,robo de vehículos,2/1/2019,true,ciudadania
+Napo,Cohecho,4/5/2020,true,ciudadania
+Cotopaxi,Extorsión,1/20/2018,false,estado
+Cotopaxi,Peculado,6/7/2022,true,empresa privada
+Cotopaxi,robo de vehículos,1/24/2021,false,empresa privada
+Guayas,. Ataques informáticos,4/22/2020,false,ciudadania
+Esmeraldas,. Ataques informáticos,1/21/2018,false,estado
+Esmeraldas,robo de vehículos,4/27/2019,true,empresa privada
+Napo,Cohecho,8/26/2019,false,estado
+Manabí,Cohecho,6/8/2020,false,ciudadania
+Guayas,robo de vehículos,4/7/2018,false,empresa privada
+Manabí,Extorsión,12/26/2020,false,estado
+Cotopaxi,robo de vehículos,2/3/2019,false,empresa privada
+Esmeraldas,secuestro,2/13/2020,false,ciudadania
+Esmeraldas,. Ataques informáticos,3/3/2021,false,ciudadania
+Napo,robo de vehículos,2/5/2022,false,empresa privada
+Napo,Cohecho,10/24/2018,true,empresa privada
+Napo,secuestro,3/6/2021,false,empresa privada
+Cotopaxi,Cohecho,3/16/2019,true,estado
+Napo,robo de vehículos,5/13/2020,true,empresa privada
+Pichincha,. Ataques informáticos,12/18/2021,false,empresa privada
+Tungurahua,Peculado,2/15/2022,false,estado
+Tungurahua,robo de vehículos,4/19/2018,false,ciudadania
+Esmeraldas,Testaferrismo,9/7/2019,true,estado
+Pichincha,Falsificación de firmas,9/19/2020,true,ciudadania
+Tungurahua,Cohecho,7/23/2022,true,estado
+Napo,Testaferrismo,7/15/2020,true,estado
+Pichincha,Testaferrismo,10/15/2021,false,empresa privada
+Esmeraldas,. Ataques informáticos,7/17/2019,true,empresa privada
+Pichincha,Cohecho,9/25/2018,false,estado
+Napo,. Ataques informáticos,1/28/2019,false,empresa privada
+Esmeraldas,Peculado,3/12/2023,true,estado
+Napo,Cohecho,2/3/2019,true,estado
+Cotopaxi,robo de vehículos,7/23/2019,false,empresa privada
+Tungurahua,Peculado,11/10/2019,false,estado
+Azuay,secuestro,7/19/2020,true,empresa privada
+Pichincha,lesiones,5/10/2019,false,empresa privada
+Azuay,secuestro,10/26/2020,true,ciudadania
+Guayas,Extorsión,9/21/2022,false,estado
+Manabí,Testaferrismo,9/28/2019,false,estado
+Tungurahua,lesiones,6/27/2022,false,estado
+Tungurahua,robo de vehículos,5/8/2021,false,ciudadania
+Cotopaxi,. Ataques informáticos,9/12/2021,false,estado
+Guayas,. Ataques informáticos,4/14/2022,true,ciudadania
+Pichincha,Cohecho,10/15/2021,true,ciudadania
+Cotopaxi,. Ataques informáticos,5/18/2022,true,ciudadania
+Napo,Testaferrismo,11/28/2021,false,estado
+Esmeraldas,lesiones,2/16/2021,true,empresa privada
+Guayas,Cohecho,9/23/2021,false,estado
+Esmeraldas,Extorsión,2/1/2018,false,estado
+Tungurahua,. Ataques informáticos,1/10/2018,true,empresa privada
+Manabí,. Ataques informáticos,3/28/2023,true,ciudadania
+Manabí,. Ataques informáticos,12/18/2020,true,estado
+Esmeraldas,secuestro,1/3/2020,true,ciudadania
+Napo,lesiones,6/27/2018,false,estado
+Esmeraldas,robo de vehículos,3/10/2023,false,empresa privada
+Cotopaxi,robo de vehículos,3/10/2019,false,estado
+Manabí,Cohecho,1/5/2018,true,estado
+Tungurahua,robo de vehículos,5/26/2018,true,ciudadania
+Pichincha,Extorsión,4/28/2022,false,estado
+Guayas,Falsificación de firmas,2/25/2021,false,ciudadania
+Esmeraldas,. Ataques informáticos,3/13/2021,true,empresa privada
+Azuay,Peculado,3/7/2019,true,estado
+Manabí,. Ataques informáticos,4/15/2023,true,empresa privada
+Cotopaxi,Peculado,12/24/2020,false,estado
+Pichincha,Peculado,7/24/2020,true,estado
+Cotopaxi,Falsificación de firmas,6/15/2019,true,ciudadania
+Cotopaxi,Falsificación de firmas,5/27/2020,false,empresa privada
+Tungurahua,. Ataques informáticos,1/10/2022,false,ciudadania
+Manabí,Peculado,9/26/2019,true,estado
+Guayas,Cohecho,3/24/2023,false,empresa privada
+Tungurahua,Falsificación de firmas,4/29/2020,true,ciudadania
+Manabí,Extorsión,10/31/2020,false,estado
+Manabí,Extorsión,7/15/2022,false,ciudadania
+Tungurahua,robo de vehículos,9/1/2020,false,ciudadania
+Azuay,Falsificación de firmas,7/15/2022,true,empresa privada
+Esmeraldas,secuestro,5/10/2021,false,ciudadania
+Pichincha,. Ataques informáticos,4/27/2019,true,ciudadania
+Esmeraldas,lesiones,5/24/2022,false,ciudadania
+Napo,secuestro,8/12/2019,false,ciudadania
+Esmeraldas,lesiones,8/13/2022,true,ciudadania
+Cotopaxi,Extorsión,2/15/2022,true,ciudadania
+Pichincha,Cohecho,10/5/2019,true,estado
+Guayas,. Ataques informáticos,12/10/2019,false,estado
+Esmeraldas,. Ataques informáticos,5/30/2020,false,ciudadania
+Cotopaxi,. Ataques informáticos,4/13/2022,false,empresa privada
+Tungurahua,Cohecho,5/16/2021,true,ciudadania
+Tungurahua,lesiones,1/17/2019,true,ciudadania
+Guayas,Extorsión,6/27/2019,true,estado
+Azuay,. Ataques informáticos,3/13/2020,false,estado
+Pichincha,Extorsión,12/29/2019,true,estado
+Pichincha,Peculado,10/20/2020,true,ciudadania
+Pichincha,secuestro,1/16/2023,false,estado
+Guayas,robo de vehículos,8/2/2020,true,empresa privada
+Guayas,robo de vehículos,9/2/2018,true,ciudadania
+Pichincha,Peculado,2/9/2020,false,ciudadania
+Tungurahua,lesiones,6/27/2018,false,estado
+Guayas,secuestro,3/16/2018,true,estado
+Manabí,. Ataques informáticos,8/29/2019,true,ciudadania
+Tungurahua,Testaferrismo,5/6/2021,true,empresa privada
+Guayas,Peculado,1/9/2020,true,estado
+Azuay,Testaferrismo,3/8/2022,true,ciudadania
+Cotopaxi,. Ataques informáticos,5/30/2021,false,ciudadania
+Guayas,robo de vehículos,12/25/2018,true,estado
+Napo,Testaferrismo,1/16/2022,true,ciudadania
+Napo,Peculado,7/16/2019,false,empresa privada
+Esmeraldas,Peculado,2/7/2019,true,empresa privada
+Cotopaxi,Peculado,3/11/2023,false,ciudadania
+Azuay,Cohecho,11/13/2019,false,estado
+Cotopaxi,secuestro,8/23/2022,true,empresa privada
+Azuay,Falsificación de firmas,10/11/2019,false,ciudadania
+Guayas,Extorsión,10/26/2021,false,estado
+Azuay,secuestro,12/1/2018,false,estado
+Azuay,Falsificación de firmas,3/25/2019,false,ciudadania
+Napo,Falsificación de firmas,6/6/2020,true,empresa privada
+Azuay,Testaferrismo,8/7/2022,true,empresa privada
+Pichincha,Falsificación de firmas,5/31/2020,false,empresa privada
+Esmeraldas,secuestro,4/16/2022,false,estado
+Pichincha,Peculado,3/14/2023,true,estado
+Azuay,Testaferrismo,3/16/2019,false,estado
+Guayas,Extorsión,6/17/2019,false,estado
+Cotopaxi,robo de vehículos,11/1/2022,false,estado
+Tungurahua,Peculado,6/8/2019,false,empresa privada
+Azuay,Extorsión,1/9/2021,false,ciudadania
+Guayas,Cohecho,11/15/2019,true,empresa privada
+Cotopaxi,Peculado,4/4/2018,true,ciudadania
+Napo,Peculado,8/15/2018,false,ciudadania
+Pichincha,Peculado,8/16/2020,false,estado
+Manabí,Peculado,7/30/2022,true,estado
+Pichincha,Falsificación de firmas,6/29/2022,false,estado
+Azuay,secuestro,9/27/2022,true,estado
+Esmeraldas,Peculado,8/17/2019,false,ciudadania
+Azuay,Testaferrismo,9/19/2021,false,estado
+Cotopaxi,Testaferrismo,8/3/2022,false,empresa privada
+Azuay,lesiones,8/26/2018,false,estado
+Guayas,Extorsión,7/23/2019,true,estado
+Manabí,. Ataques informáticos,2/8/2022,true,estado
+Tungurahua,secuestro,1/11/2021,false,empresa privada
+Pichincha,Extorsión,6/14/2022,true,ciudadania
+Pichincha,lesiones,7/9/2018,false,estado
+Tungurahua,Peculado,12/5/2018,true,empresa privada
+Azuay,secuestro,11/14/2018,true,ciudadania
+Cotopaxi,secuestro,7/10/2018,true,estado
+Napo,Falsificación de firmas,12/22/2019,false,estado
+Cotopaxi,Extorsión,6/13/2018,false,empresa privada
+Tungurahua,. Ataques informáticos,6/3/2019,false,ciudadania
+Pichincha,robo de vehículos,8/13/2019,true,estado
+Manabí,Cohecho,5/12/2022,false,ciudadania
+Tungurahua,Extorsión,7/10/2018,true,ciudadania
+Napo,Extorsión,10/2/2020,false,ciudadania
+Esmeraldas,Falsificación de firmas,8/9/2020,true,empresa privada
+Cotopaxi,Falsificación de firmas,3/20/2019,false,ciudadania
+Esmeraldas,Testaferrismo,4/28/2018,true,ciudadania
+Pichincha,robo de vehículos,6/24/2019,true,estado
+Cotopaxi,Extorsión,12/13/2019,false,empresa privada
+Pichincha,Cohecho,12/18/2018,false,ciudadania
+Esmeraldas,Falsificación de firmas,8/26/2018,false,estado
+Manabí,Peculado,3/2/2021,true,estado
+Cotopaxi,Extorsión,8/12/2019,true,estado
+Guayas,lesiones,9/17/2021,true,estado
+Cotopaxi,Falsificación de firmas,5/6/2018,true,estado
+Tungurahua,Falsificación de firmas,4/28/2018,false,ciudadania
+Pichincha,Falsificación de firmas,4/21/2021,true,estado
+Pichincha,Cohecho,9/27/2022,true,empresa privada
+Guayas,Cohecho,5/20/2019,false,ciudadania
+Tungurahua,Peculado,4/15/2020,true,estado
+Tungurahua,Testaferrismo,7/7/2021,false,empresa privada
+Cotopaxi,Peculado,1/6/2022,true,estado
+Azuay,Cohecho,2/17/2018,false,estado
+Esmeraldas,Falsificación de firmas,10/4/2020,true,empresa privada
+Tungurahua,Testaferrismo,7/28/2022,true,estado
+Tungurahua,Peculado,2/4/2020,false,ciudadania
+Guayas,secuestro,1/20/2023,true,ciudadania
+Esmeraldas,Cohecho,5/16/2020,true,estado
+Esmeraldas,Extorsión,5/26/2019,false,estado
+Napo,robo de vehículos,8/29/2022,false,ciudadania
+Napo,lesiones,2/3/2018,false,ciudadania
+Napo,Peculado,8/27/2022,true,empresa privada
+Manabí,Extorsión,1/23/2020,false,estado
+Napo,. Ataques informáticos,7/6/2018,false,estado
+Azuay,robo de vehículos,10/28/2020,false,ciudadania
+Pichincha,secuestro,1/17/2020,false,estado
+Esmeraldas,lesiones,10/25/2021,true,estado
+Manabí,. Ataques informáticos,5/22/2020,false,ciudadania
+Guayas,lesiones,2/16/2018,true,estado
+Napo,Cohecho,11/7/2020,true,estado
+Tungurahua,secuestro,7/11/2018,false,ciudadania
+Napo,. Ataques informáticos,10/16/2020,true,empresa privada
+Guayas,Extorsión,8/28/2022,false,empresa privada
+Guayas,secuestro,5/10/2020,false,ciudadania
+Napo,Peculado,9/1/2019,true,ciudadania
+Pichincha,. Ataques informáticos,4/22/2020,false,ciudadania
+Pichincha,Extorsión,4/24/2020,false,estado
+Azuay,lesiones,8/28/2018,false,ciudadania
+Cotopaxi,Extorsión,9/18/2019,false,ciudadania
+Manabí,Cohecho,5/8/2020,false,empresa privada
+Napo,Falsificación de firmas,2/3/2019,true,estado
+Cotopaxi,Falsificación de firmas,8/20/2020,true,empresa privada
+Azuay,Extorsión,1/5/2022,false,empresa privada
+Pichincha,secuestro,10/6/2020,false,ciudadania
+Azuay,robo de vehículos,1/24/2019,true,estado
+Cotopaxi,lesiones,5/26/2021,true,estado
+Guayas,Extorsión,1/7/2020,true,estado
+Manabí,secuestro,9/9/2018,true,estado
+Manabí,Peculado,7/16/2021,true,estado
+Tungurahua,Peculado,4/19/2020,true,ciudadania
+Guayas,lesiones,5/29/2022,false,estado
+Manabí,robo de vehículos,9/17/2021,false,ciudadania
+Cotopaxi,robo de vehículos,9/8/2022,true,estado
+Cotopaxi,lesiones,2/13/2018,false,ciudadania
+Napo,Peculado,5/15/2021,true,estado
+Napo,secuestro,1/15/2023,false,estado
+Cotopaxi,Falsificación de firmas,12/20/2019,false,empresa privada
+Cotopaxi,Peculado,5/3/2020,false,empresa privada
+Pichincha,Extorsión,11/12/2021,true,ciudadania
+Tungurahua,secuestro,6/8/2021,true,estado
+Azuay,Falsificación de firmas,7/22/2020,false,ciudadania
+Guayas,lesiones,10/20/2020,false,empresa privada
+Napo,Testaferrismo,2/16/2018,true,ciudadania
+Cotopaxi,lesiones,2/9/2021,true,estado
+Napo,secuestro,7/1/2019,false,ciudadania
+Napo,Cohecho,1/2/2018,true,estado
+Pichincha,Falsificación de firmas,9/30/2019,true,estado
+Tungurahua,secuestro,10/22/2020,true,empresa privada
+Esmeraldas,Cohecho,10/18/2018,false,empresa privada
+Cotopaxi,Cohecho,10/14/2019,true,estado
+Pichincha,Falsificación de firmas,3/21/2019,true,estado
+Esmeraldas,Testaferrismo,1/18/2021,false,ciudadania
+Esmeraldas,Falsificación de firmas,12/5/2021,false,empresa privada
+Tungurahua,. Ataques informáticos,7/29/2019,false,empresa privada
+Tungurahua,robo de vehículos,3/19/2019,false,empresa privada
+Guayas,Falsificación de firmas,12/11/2022,true,empresa privada
+Manabí,Falsificación de firmas,4/24/2021,false,ciudadania
+Guayas,Falsificación de firmas,7/16/2020,true,ciudadania
+Azuay,Cohecho,4/22/2018,false,estado
+Cotopaxi,Extorsión,6/14/2019,true,estado
+Napo,Extorsión,10/15/2021,true,estado
+Cotopaxi,Extorsión,1/15/2019,true,estado
+Manabí,. Ataques informáticos,1/3/2021,true,empresa privada
+Pichincha,robo de vehículos,8/30/2019,false,estado
+Esmeraldas,Peculado,10/14/2018,true,ciudadania
+Pichincha,Peculado,1/10/2020,true,empresa privada
+Manabí,Peculado,11/19/2020,true,ciudadania
+Cotopaxi,Testaferrismo,11/26/2020,true,estado
+Azuay,Cohecho,5/18/2021,true,ciudadania
+Esmeraldas,lesiones,1/6/2020,false,ciudadania
+Guayas,robo de vehículos,4/25/2022,true,estado
+Tungurahua,robo de vehículos,8/26/2021,true,estado
+Tungurahua,Falsificación de firmas,12/25/2022,true,empresa privada
+Cotopaxi,Testaferrismo,2/8/2019,false,estado
+Cotopaxi,lesiones,12/29/2020,true,estado
+Tungurahua,secuestro,7/22/2020,false,empresa privada
+Azuay,Extorsión,6/28/2021,false,estado
+Cotopaxi,Cohecho,10/22/2018,true,estado
+Pichincha,robo de vehículos,3/24/2020,true,ciudadania
+Manabí,lesiones,11/14/2018,false,estado
+Esmeraldas,secuestro,12/12/2020,true,estado
+Azuay,lesiones,2/8/2021,false,ciudadania
+Cotopaxi,Extorsión,12/28/2018,false,empresa privada
+Guayas,Testaferrismo,3/20/2020,true,empresa privada
+Manabí,. Ataques informáticos,1/9/2021,true,empresa privada
+Cotopaxi,secuestro,11/9/2021,true,estado
+Pichincha,Testaferrismo,9/12/2021,false,estado
+Esmeraldas,Extorsión,2/12/2019,false,ciudadania
+Azuay,. Ataques informáticos,4/4/2022,true,estado
+Manabí,robo de vehículos,4/3/2020,false,ciudadania
+Cotopaxi,Peculado,9/1/2021,false,empresa privada
+Napo,Falsificación de firmas,3/19/2019,true,empresa privada
+Pichincha,Falsificación de firmas,1/15/2019,true,ciudadania
+Manabí,Cohecho,5/20/2020,true,ciudadania
+Napo,Extorsión,3/8/2023,true,empresa privada
+Manabí,Falsificación de firmas,3/22/2022,true,empresa privada
+Azuay,Cohecho,3/20/2019,true,empresa privada
+Napo,Peculado,4/22/2018,true,empresa privada
+Pichincha,Cohecho,6/20/2019,false,estado
+Guayas,. Ataques informáticos,7/13/2020,false,empresa privada
+Guayas,lesiones,2/11/2023,false,empresa privada
+Napo,Cohecho,2/8/2018,true,estado
+Napo,Falsificación de firmas,8/25/2022,true,ciudadania
+Manabí,secuestro,3/29/2019,true,empresa privada
+Azuay,Cohecho,6/24/2019,false,estado
+Manabí,robo de vehículos,10/25/2021,true,empresa privada
+Napo,Testaferrismo,11/10/2018,true,estado
+Esmeraldas,. Ataques informáticos,9/23/2020,false,ciudadania
+Azuay,Cohecho,1/25/2018,true,estado
+Esmeraldas,Cohecho,4/18/2022,true,empresa privada
+Napo,Cohecho,11/4/2019,false,empresa privada
+Esmeraldas,secuestro,4/10/2022,true,empresa privada
+Azuay,robo de vehículos,12/2/2021,false,empresa privada
+Tungurahua,Extorsión,9/12/2020,false,estado
+Pichincha,robo de vehículos,1/22/2022,false,ciudadania
+Esmeraldas,robo de vehículos,2/22/2019,true,estado
+Guayas,Cohecho,1/27/2019,false,empresa privada
+Guayas,secuestro,2/11/2019,true,estado
+Azuay,Testaferrismo,4/30/2018,true,ciudadania
+Azuay,Falsificación de firmas,5/17/2020,false,empresa privada
+Manabí,Falsificación de firmas,10/1/2018,true,empresa privada
+Cotopaxi,Peculado,12/24/2020,true,empresa privada
+Guayas,. Ataques informáticos,9/23/2022,false,ciudadania
+Guayas,secuestro,2/9/2023,false,ciudadania
+Manabí,Extorsión,7/9/2021,false,estado
+Tungurahua,robo de vehículos,7/17/2022,true,ciudadania
+Cotopaxi,Peculado,10/7/2020,false,ciudadania
+Guayas,Cohecho,9/30/2020,true,empresa privada
+Manabí,Peculado,9/22/2021,false,estado
+Esmeraldas,Extorsión,2/10/2023,true,estado
+Pichincha,lesiones,10/19/2022,true,empresa privada
+Cotopaxi,. Ataques informáticos,6/19/2021,false,ciudadania
+Guayas,Cohecho,4/12/2019,true,ciudadania
+Napo,robo de vehículos,2/5/2021,false,estado
+Cotopaxi,secuestro,9/12/2019,true,empresa privada
+Azuay,Falsificación de firmas,3/14/2019,true,empresa privada
+Azuay,lesiones,4/16/2021,false,estado
+Azuay,Testaferrismo,7/17/2022,false,estado
+Pichincha,secuestro,7/7/2019,true,empresa privada
+Manabí,Falsificación de firmas,10/4/2020,false,ciudadania
+Manabí,Peculado,8/18/2022,true,empresa privada
+Tungurahua,Extorsión,12/18/2022,false,estado
+Cotopaxi,Cohecho,12/7/2021,false,estado
+Cotopaxi,Testaferrismo,9/9/2020,false,estado
+Pichincha,robo de vehículos,9/11/2019,false,empresa privada
+Napo,Falsificación de firmas,2/4/2022,true,estado
+Tungurahua,lesiones,1/15/2021,false,estado
+Pichincha,secuestro,6/4/2022,true,ciudadania
+Napo,Falsificación de firmas,5/14/2018,true,ciudadania
+Manabí,Peculado,10/31/2021,true,empresa privada
+Napo,Peculado,7/22/2021,false,ciudadania
+Guayas,. Ataques informáticos,11/26/2018,false,ciudadania
+Tungurahua,robo de vehículos,10/18/2018,true,estado
+Guayas,. Ataques informáticos,6/11/2021,true,estado
+Manabí,. Ataques informáticos,3/19/2022,true,estado
+Napo,Falsificación de firmas,5/19/2019,true,estado
+Cotopaxi,Cohecho,5/19/2022,true,empresa privada
+Guayas,secuestro,4/18/2021,false,empresa privada
+Pichincha,Extorsión,3/5/2019,true,empresa privada
+Pichincha,Testaferrismo,7/23/2021,false,ciudadania
+Guayas,Cohecho,7/8/2019,true,empresa privada
+Guayas,robo de vehículos,12/16/2018,true,empresa privada
+Manabí,robo de vehículos,8/6/2019,false,ciudadania
+Guayas,lesiones,1/15/2018,true,estado
+Azuay,Testaferrismo,4/29/2019,false,empresa privada
+Tungurahua,Cohecho,8/4/2020,true,empresa privada
+Napo,lesiones,1/10/2023,true,estado
+Azuay,Falsificación de firmas,7/15/2019,false,ciudadania
+Guayas,. Ataques informáticos,4/11/2021,false,empresa privada
+Azuay,. Ataques informáticos,8/7/2018,false,empresa privada
+Azuay,. Ataques informáticos,8/19/2020,false,estado
+Manabí,Extorsión,9/15/2022,true,empresa privada
+Manabí,lesiones,8/13/2018,false,empresa privada
+Napo,Extorsión,2/5/2022,false,ciudadania
+Pichincha,lesiones,12/18/2022,true,empresa privada
+Napo,robo de vehículos,10/9/2022,true,ciudadania
+Cotopaxi,secuestro,2/20/2020,true,ciudadania
+Azuay,lesiones,3/30/2023,true,estado
+Napo,Peculado,7/18/2018,false,ciudadania
+Tungurahua,secuestro,9/15/2021,false,estado
+Tungurahua,Cohecho,12/18/2021,true,estado
+Napo,Falsificación de firmas,11/15/2021,true,estado
+Esmeraldas,lesiones,10/27/2021,false,estado
+Pichincha,Cohecho,5/31/2018,true,empresa privada
+Tungurahua,Falsificación de firmas,9/29/2021,true,empresa privada
+Cotopaxi,Peculado,3/5/2020,false,empresa privada
+Azuay,Peculado,2/6/2020,false,ciudadania
+Azuay,. Ataques informáticos,3/5/2018,true,ciudadania
+Napo,lesiones,3/4/2022,false,ciudadania
+Pichincha,Peculado,1/16/2020,false,empresa privada
+Tungurahua,robo de vehículos,10/15/2019,false,empresa privada
+Azuay,lesiones,9/13/2022,true,estado
+Napo,lesiones,3/7/2022,false,empresa privada
+Pichincha,robo de vehículos,8/21/2018,true,empresa privada
+Esmeraldas,Peculado,5/21/2022,false,estado
+Guayas,. Ataques informáticos,2/6/2021,false,ciudadania
+Napo,Extorsión,8/22/2021,false,empresa privada
+Esmeraldas,robo de vehículos,5/29/2022,true,ciudadania
+Azuay,lesiones,1/2/2019,true,empresa privada
+Pichincha,Peculado,6/19/2019,false,ciudadania
+Manabí,lesiones,4/8/2018,true,ciudadania
+Guayas,robo de vehículos,9/22/2021,false,estado
+Guayas,Testaferrismo,5/26/2018,true,empresa privada
+Manabí,Falsificación de firmas,12/7/2021,false,ciudadania
+Napo,Falsificación de firmas,10/29/2021,false,empresa privada
+Napo,Testaferrismo,5/13/2021,false,empresa privada
+Tungurahua,lesiones,2/28/2020,true,ciudadania
+Azuay,Extorsión,9/24/2021,true,empresa privada
+Manabí,Falsificación de firmas,10/10/2022,false,ciudadania
+Tungurahua,Peculado,9/21/2018,false,estado
+Napo,Extorsión,4/18/2022,true,empresa privada
+Napo,Extorsión,7/3/2020,false,empresa privada
+Manabí,Peculado,12/30/2019,false,estado
+Esmeraldas,. Ataques informáticos,9/24/2020,true,empresa privada
+Pichincha,lesiones,4/10/2019,true,ciudadania
+Pichincha,lesiones,7/3/2018,false,estado
+Manabí,Cohecho,8/29/2020,true,estado
+Guayas,lesiones,5/24/2020,false,estado
+Manabí,Cohecho,5/19/2021,false,ciudadania
+Napo,Cohecho,10/9/2022,false,estado
+Esmeraldas,Extorsión,11/20/2020,false,estado
+Napo,lesiones,9/15/2022,false,ciudadania
+Manabí,Falsificación de firmas,8/18/2022,false,ciudadania
+Azuay,Cohecho,12/6/2019,true,ciudadania
+Azuay,Cohecho,1/20/2022,false,empresa privada
+Cotopaxi,lesiones,6/11/2020,false,ciudadania
+Tungurahua,Cohecho,2/2/2021,false,ciudadania
+Azuay,. Ataques informáticos,9/23/2022,false,estado
+Tungurahua,Testaferrismo,1/24/2021,true,estado
+Napo,secuestro,8/23/2021,false,estado
+Napo,Extorsión,1/2/2023,true,ciudadania
+Tungurahua,Falsificación de firmas,10/19/2018,false,empresa privada
+Tungurahua,. Ataques informáticos,7/2/2019,true,ciudadania
+Manabí,. Ataques informáticos,10/2/2021,false,ciudadania
+Esmeraldas,secuestro,3/31/2018,true,empresa privada
+Manabí,Cohecho,10/6/2020,false,estado
+Guayas,Testaferrismo,2/23/2019,false,empresa privada
+Tungurahua,. Ataques informáticos,11/28/2021,false,ciudadania
+Esmeraldas,Falsificación de firmas,7/6/2018,true,estado
+Pichincha,Cohecho,7/12/2018,true,empresa privada
+Manabí,lesiones,10/31/2019,false,empresa privada
+Guayas,lesiones,2/17/2023,true,empresa privada
+Cotopaxi,Testaferrismo,7/27/2019,false,empresa privada
+Guayas,. Ataques informáticos,3/15/2019,true,empresa privada
+Azuay,lesiones,9/10/2021,false,estado
+Tungurahua,Extorsión,8/24/2019,true,ciudadania
+Azuay,lesiones,11/2/2020,true,estado
+Tungurahua,Extorsión,7/25/2019,false,estado
+Manabí,secuestro,6/21/2020,false,empresa privada
+Esmeraldas,Extorsión,8/19/2022,true,empresa privada
+Azuay,Falsificación de firmas,2/25/2023,false,estado
+Napo,robo de vehículos,3/8/2022,true,empresa privada
+Cotopaxi,lesiones,11/12/2022,true,empresa privada
+Cotopaxi,robo de vehículos,2/13/2022,true,empresa privada
+Napo,. Ataques informáticos,10/20/2018,false,empresa privada
+Tungurahua,Falsificación de firmas,10/12/2019,false,empresa privada
+Pichincha,Falsificación de firmas,5/5/2020,false,estado
+Tungurahua,secuestro,3/8/2021,true,estado
+Napo,Cohecho,11/16/2021,true,ciudadania
+Napo,Testaferrismo,8/10/2018,false,ciudadania
+Cotopaxi,Falsificación de firmas,8/29/2018,false,ciudadania
+Pichincha,. Ataques informáticos,8/13/2020,true,empresa privada
+Cotopaxi,Testaferrismo,4/6/2021,false,ciudadania
+Napo,. Ataques informáticos,3/29/2018,true,empresa privada
+Tungurahua,lesiones,12/7/2020,true,ciudadania
+Cotopaxi,Extorsión,4/17/2021,false,estado
+Azuay,robo de vehículos,8/18/2019,true,ciudadania
+Cotopaxi,. Ataques informáticos,7/6/2019,false,estado
+Napo,. Ataques informáticos,1/11/2018,true,empresa privada
+Cotopaxi,robo de vehículos,2/27/2022,false,empresa privada
+Azuay,Cohecho,3/6/2022,true,empresa privada
+Esmeraldas,Peculado,9/19/2020,true,estado
+Pichincha,. Ataques informáticos,12/22/2018,true,empresa privada
+Manabí,Extorsión,10/20/2020,false,empresa privada
+Pichincha,Testaferrismo,1/26/2020,true,empresa privada
+Azuay,lesiones,9/19/2021,false,empresa privada
+Guayas,Falsificación de firmas,4/14/2018,false,estado
+Cotopaxi,Testaferrismo,11/3/2021,false,ciudadania
+Pichincha,Testaferrismo,11/25/2022,true,estado
+Cotopaxi,Cohecho,6/11/2022,false,empresa privada
+Tungurahua,. Ataques informáticos,1/20/2022,false,ciudadania
+Pichincha,Falsificación de firmas,4/5/2021,true,empresa privada
+Guayas,Extorsión,4/13/2018,false,empresa privada
+Tungurahua,Peculado,3/20/2022,false,estado
+Cotopaxi,. Ataques informáticos,2/16/2020,false,estado
+Cotopaxi,lesiones,3/1/2022,true,empresa privada
+Pichincha,Cohecho,8/29/2020,true,estado
+Napo,Testaferrismo,5/15/2019,true,empresa privada
+Pichincha,lesiones,4/8/2021,true,estado
+Tungurahua,Peculado,4/30/2022,false,estado
+Napo,Peculado,3/16/2021,false,empresa privada
+Cotopaxi,secuestro,3/6/2019,true,estado
+Napo,robo de vehículos,6/10/2018,true,empresa privada
+Napo,Testaferrismo,5/31/2019,true,estado
+Cotopaxi,Peculado,10/6/2021,true,empresa privada
+Manabí,Cohecho,7/24/2019,true,empresa privada
+Esmeraldas,lesiones,11/10/2020,true,ciudadania
+Azuay,Testaferrismo,4/2/2020,true,ciudadania
+Pichincha,secuestro,12/16/2018,false,estado
+Esmeraldas,Testaferrismo,9/23/2019,true,empresa privada
+Cotopaxi,. Ataques informáticos,4/10/2019,false,empresa privada
+Azuay,. Ataques informáticos,1/23/2020,true,estado
+Napo,robo de vehículos,5/23/2019,true,ciudadania
+Napo,secuestro,9/25/2022,false,estado
+Azuay,robo de vehículos,6/11/2018,false,estado
+Pichincha,. Ataques informáticos,4/15/2021,false,estado
+Guayas,secuestro,8/12/2018,true,empresa privada
+Esmeraldas,Cohecho,1/16/2019,true,empresa privada
+Azuay,Cohecho,7/5/2019,true,ciudadania
+Guayas,Peculado,7/17/2021,true,estado
+Tungurahua,Peculado,2/20/2022,false,empresa privada
+Tungurahua,lesiones,9/14/2021,true,empresa privada
+Azuay,Peculado,4/4/2023,true,estado
+Tungurahua,Extorsión,11/12/2020,false,estado
+Manabí,Extorsión,11/24/2019,true,empresa privada
+Tungurahua,secuestro,7/20/2021,false,ciudadania
+Tungurahua,Peculado,11/15/2021,true,ciudadania
+Napo,Cohecho,4/5/2023,false,ciudadania
+Pichincha,Cohecho,11/10/2021,false,ciudadania
+Guayas,robo de vehículos,4/3/2023,false,empresa privada
+Guayas,. Ataques informáticos,4/8/2021,false,empresa privada
+Tungurahua,Peculado,2/16/2022,true,empresa privada
+Manabí,Cohecho,11/30/2022,true,empresa privada
+Napo,Peculado,6/13/2019,false,empresa privada
+Tungurahua,lesiones,11/9/2018,true,ciudadania
+Manabí,Extorsión,9/15/2021,false,empresa privada
+Pichincha,Cohecho,11/18/2020,false,ciudadania
+Pichincha,Extorsión,2/10/2018,false,estado
+Manabí,Falsificación de firmas,3/13/2021,false,empresa privada
+Napo,secuestro,1/2/2021,false,empresa privada
+Napo,Peculado,10/3/2022,true,estado
+Cotopaxi,Cohecho,7/29/2018,false,estado
+Esmeraldas,Falsificación de firmas,4/21/2021,true,estado
+Napo,. Ataques informáticos,7/3/2020,true,ciudadania
+Cotopaxi,. Ataques informáticos,9/3/2018,false,ciudadania
+Napo,lesiones,10/19/2021,false,ciudadania
+Guayas,. Ataques informáticos,5/6/2022,false,estado
+Napo,. Ataques informáticos,4/6/2019,false,estado
+Pichincha,Peculado,6/28/2018,false,empresa privada
+Pichincha,Falsificación de firmas,8/5/2020,true,estado
+Guayas,Falsificación de firmas,6/19/2019,false,estado
+Azuay,Extorsión,10/20/2022,true,estado
+Azuay,Falsificación de firmas,4/29/2021,true,ciudadania
+Napo,robo de vehículos,6/3/2022,true,empresa privada
+Pichincha,Cohecho,2/28/2023,false,empresa privada
+Guayas,Extorsión,8/20/2021,true,ciudadania
